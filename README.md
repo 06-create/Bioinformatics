@@ -11,7 +11,6 @@ This is a beginner-friendly Python tool to calculate GC content in DNA sequences
 - Analyze one or many DNA sequences
 - Get GC content percentage
 - Automatically classify as AT-rich or GC-rich
-- Includes real gene examples like TP53 and AT-rich promoters
 
 ## Sample Output
 DNA sequence is: ATGCGTACGTTAG
